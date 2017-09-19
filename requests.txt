@@ -1,0 +1,14 @@
+# this should already be installed
+
+python-dateutil
+flask
+configparser
+requests
+# new dependencies
+git+git://github.com/savon-noir/python-libnmap
+git+git://github.com/pidgeyl/specter
+#   lua_shared_dict limit 50m;
+#   lua_package_path "/usr/local/openresty/nginx/waf/?.lua";
+#   init_by_lua_file "/usr/local/openresty/nginx/waf/init.lua";
+#   access_by_lua_file "/usr/local/openresty/nginx/waf/access.lua";
+

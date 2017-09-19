@@ -1,0 +1,10 @@
+.tcol {
+    width: 100;
+}
+.tcolnr {
+    padding: 10px;
+    text-align: left;
+    word-break: break-all;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+}
